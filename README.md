@@ -15,7 +15,7 @@
  
  <h2>Top Used Languages</h2>
  
- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuelR&show_icons=true&theme=radical)
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuelR&show_icons=true&theme=radical&langs_count = 10)
  
 <h2>GitHub Stats</h2>
 

@@ -29,6 +29,9 @@
 ![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&theme=radical)
 
 <h2>Contacts</h2>
+
 <a target = "_" href ="https://discordapp.com/users/skippppy#3558">![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a target = "https://www.instagram.com/amunigk/" href = "">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+<a target = "_" href = "https://www.instagram.com/amunigk/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
 <a target = "_" href = "https://www.linkedin.com/in/amanuel-reda/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>

@@ -13,5 +13,5 @@
  <li>HTML5</li>
  <li>CSS3</li>
  
- [![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR)](https://github.com/amanuelR/github-readme-stats)
+<h2>GitHub Stats</h2>
 ![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&theme=radical)

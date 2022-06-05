@@ -1,12 +1,14 @@
-### Hi there 👋
 
-<!--
-**amanuelR/amanuelR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hey 👽 :ethiopia:**
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on projects involving JPA Spring Boot 
-- 📫 How to reach me: redamanw@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Education</h2>
+    <li>Santa Monica College - AS, Computer Science 💻</li>
+    <li>CSU Long Beach - BS, Computer Science 💻⏳</li></P>
+<h2>Skills</h2>
+ <li>Java</li>
+ <li>Python</li>
+ <li>C++</li>
+ <li>C</li>
+ <li>JavaScript</li>
+ <li>HTML5</li>
+ <li>CSS3</li>

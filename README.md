@@ -7,7 +7,7 @@
 <h2>Skills</h2>
  <li>Java</li>
  <li>Python</li>
- <li>https://github.com/github/explore/blob/main/topics/cpp/cpp.png</li>
+ <li>cplusplus</li>
  <li>https://github.com/github/explore/blob/main/topics/c/c.png</li>
  <li>JavaScript</li>
  <li>HTML5</li>

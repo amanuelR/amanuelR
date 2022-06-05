@@ -1,5 +1,5 @@
 
-**Hey 👽 :ethiopia:**
+**Hey 👽 :ethiopia:  ![](https://visitor-badge.laobi.icu/badge?page_id=amanuelR.amanuelR)** 
 
 <h2>Education</h2>
     <li>Santa Monica College - AS, Computer Science 💻</li>
@@ -16,4 +16,4 @@
 ![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&theme=radical)
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=amanuelR.amanuelR)
+

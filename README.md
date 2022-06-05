@@ -13,6 +13,11 @@
  <li>HTML5</li>
  <li>CSS3</li>
  
+ <h2>Top Used Languages</h2>
+ 
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+ 
 <h2>GitHub Stats</h2>
 
 ![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&theme=radical)
+

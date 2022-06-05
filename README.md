@@ -12,3 +12,5 @@
  <li>JavaScript</li>
  <li>HTML5</li>
  <li>CSS3</li>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR)](https://github.com/amanuelR/github-readme-stats)

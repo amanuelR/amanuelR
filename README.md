@@ -3,7 +3,7 @@
 My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am super down to contribute/work on projects. You can find my contacts at the lower part of this page. 
 
 <h2>Education</h2>
-    <li>Santa Monica College - AS, Computer Science 💻</li>
+    <li>Santa Monica College - AS, Computer Science 💻 👨‍🎓</li>
     <li>CSU Long Beach - BS, Computer Science 💻⏳</li></P>
 <h2>Languages and Tools</h2>
 

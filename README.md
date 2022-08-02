@@ -37,3 +37,4 @@ My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am su
 <a target = "_blank" href = "https://www.instagram.com/amunigk/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 <a target = "_blank" href = "https://www.linkedin.com/in/amanuel-reda/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+

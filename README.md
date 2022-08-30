@@ -35,7 +35,7 @@ My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am su
  
 <h2>GitHub Stats</h2>
 
-![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&theme=dark)
+![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&langs_count=6&theme=dark)
 
 <h2>Contacts</h2>
 

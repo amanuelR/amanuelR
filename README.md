@@ -5,6 +5,13 @@ My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am su
 <h2>Education</h2>
     <li>Santa Monica College - AS, Computer Science 💻 👨‍🎓</li>
     <li>CSU Long Beach - BS, Computer Science 💻⏳</li></P>
+    
+<h2>Projects</h2>
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=GreenView&theme=dark)](https://github.com/amanuelR/GreenView)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=RelationSchemeMetadataModel&&theme=dark)](https://github.com/amanuelR/RelationSchemeMetadataModel)
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Books_Catalog&theme=dark)](https://github.com/amanuelR/Books_Catalog)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=WebBoard&theme=dark)](https://github.com/amanuelR/WebBoard)
 <h2>Languages and Tools</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,7 +31,7 @@ My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am su
 
  <h2>Top Used Languages</h2>
  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanuelR&layout=compact"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanuelR&layout=compact&theme=dark"/>
  
 <h2>GitHub Stats</h2>
 

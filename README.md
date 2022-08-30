@@ -24,7 +24,7 @@ My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am su
 
  <h2>Top Used Languages</h2>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuelR)](https://github.com/amanuelR/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanuelR&layout=compact"/>
  
 <h2>GitHub Stats</h2>
 

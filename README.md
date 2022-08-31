@@ -31,11 +31,11 @@ My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am su
 
  <h2>Top Used Languages</h2>
  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanuelR&layout=compact&theme=dark"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanuelR&layout=compact&langs_count=8&theme=dark"/>
  
 <h2>GitHub Stats</h2>
 
-![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&langs_count=6&theme=dark)
+![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&theme=dark)
 
 <h2>Contacts</h2>
 

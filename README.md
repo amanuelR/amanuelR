@@ -10,9 +10,11 @@ My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am su
    
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=GreenView&theme=dark)](https://github.com/amanuelR/GreenView)
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=RelationSchemeMetadataModel&&theme=dark)](https://github.com/amanuelR/RelationSchemeMetadataModel)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Crypto-Stop&theme=dark)]( https://github.com/amanuelR/Crypto-Stop)
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=SnapMusic&theme=dark)](https://github.com/amanuelR/SnapMusic)
      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Books_Catalog&theme=dark)](https://github.com/amanuelR/Books_Catalog)
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=WebBoard&theme=dark)](https://github.com/amanuelR/WebBoard)
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Crypto-Stop&theme=dark)]( https://github.com/amanuelR/Crypto-Stop)
+      
 <h2>Languages and Tools</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

@@ -1,6 +1,6 @@
 
 **Hey 👽 :ethiopia:  ![](https://visitor-badge.laobi.icu/badge?page_id=amanuelR.amanuelR)**  <br><br>
-My name is Amanuel Reda. I am currently a BS in CS honor student @CSULB. I am super down to contribute/work on projects. You can find my contacts at the lower part of this page. Also, I invite you to checkout the pinned projects by scrolling down.
+My name is Amanuel Reda. I am currently a 3rd year CS honors student @CSULB. I am super down to contribute/work on projects. You can find my contacts at the lower part of this page. Also, I invite you to checkout the pinned projects by scrolling down.
 
 <h2>Education</h2>
     <li>Santa Monica College - AS, Computer Science 💻 👨‍🎓</li>

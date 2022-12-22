@@ -14,6 +14,7 @@ My name is Amanuel Reda. I am currently a 3rd year CS honors student @CSULB. I a
      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=SnapMusic&theme=dark)](https://github.com/amanuelR/SnapMusic)
      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Books_Catalog&theme=dark)](https://github.com/amanuelR/Books_Catalog)
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=WebBoard&theme=dark)](https://github.com/amanuelR/WebBoard)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Natural-Image-Classifier&theme=dark)](https://github.com/amanuelR/Natural-Image-Classifier)
       
 <h2>Languages and Tools</h2>
 

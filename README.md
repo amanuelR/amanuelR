@@ -8,13 +8,13 @@ My name is Amanuel Reda. I am currently a senior Computer Science student @CSULB
     
 <h2>Projects</h2>
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=GreenView&theme=dark)](https://github.com/amanuelR/GreenView)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=RelationSchemeMetadataModel&&theme=dark)](https://github.com/amanuelR/RelationSchemeMetadataModel)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Crypto-Stop&theme=dark)]( https://github.com/amanuelR/Crypto-Stop)
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=SnapMusic&theme=dark)](https://github.com/amanuelR/SnapMusic)
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Books_Catalog&theme=dark)](https://github.com/amanuelR/Books_Catalog)
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=WebBoard&theme=dark)](https://github.com/amanuelR/WebBoard)
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanuelR&repo=Natural-Image-Classifier&theme=dark)](https://github.com/amanuelR/Natural-Image-Classifier)
+   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=GreenView&theme=dark)](https://github.com/amanuelR/GreenView)
+    [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=RelationSchemeMetadataModel&&theme=dark)](https://github.com/amanuelR/RelationSchemeMetadataModel)
+    [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=Crypto-Stop&theme=dark)]( https://github.com/amanuelR/Crypto-Stop)
+     [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=SnapMusic&theme=dark)](https://github.com/amanuelR/SnapMusic)
+     [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=Books_Catalog&theme=dark)](https://github.com/amanuelR/Books_Catalog)
+      [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=WebBoard&theme=dark)](https://github.com/amanuelR/WebBoard)
+      [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=Natural-Image-Classifier&theme=dark)](https://github.com/amanuelR/Natural-Image-Classifier)
       
 <h2>Languages and Tools</h2>
 
@@ -35,11 +35,11 @@ My name is Amanuel Reda. I am currently a senior Computer Science student @CSULB
 
  <h2>Top Used Languages</h2>
  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanuelR&layout=compact&langs_count=10&theme=dark"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amanuelR&layout=compact&langs_count=10&theme=dark"/>
  
 <h2>GitHub Stats</h2>
 
-![Amanuel Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanuelR&show_icons=true&theme=dark)
+![Amanuel Reda's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amanuelR&show_icons=true&theme=dark)
 
 <h2>Contacts</h2>
 

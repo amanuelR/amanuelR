@@ -7,7 +7,8 @@ My name is Amanuel Reda. I am currently a senior Computer Science student @CSULB
     <li>CSU Long Beach - BS, Computer Science 💻⏳</li></P>
     
 <h2>Projects</h2>
-   
+
+   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=StudySpot&theme=dark)](https://github.com/amanuelR/StudySpot)
    [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=GreenView&theme=dark)](https://github.com/amanuelR/GreenView)
     [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=Relation-Scheme-Metadata-Model&theme=dark)](https://github.com/amanuelR/Relation-Scheme-Metadata-Model)
     [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amanuelR&repo=Crypto-Stop&theme=dark)]( https://github.com/amanuelR/Crypto-Stop)
